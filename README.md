@@ -12,3 +12,11 @@ print ("działa")
 
 zobaczyć instrukcję do dokumentacji Python markdown:
 [
+
+
+task list:
+- [x] zakupy swiateczne
+- [ ] spakowanie prezentow
+- [x] @mentions, #refs, [links](), **ola0605**, and <del>tags</del> supported
+- [x] sprzatanie przedswiateczne
+- [x] [ ] pranie
